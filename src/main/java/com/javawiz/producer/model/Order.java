@@ -1,4 +1,4 @@
-package com.javawiz.model;
+package com.javawiz.producer.model;
 
 import lombok.Data;
 
